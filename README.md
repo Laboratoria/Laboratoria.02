@@ -1,4 +1,5 @@
-### 02.03.15 - Propiedad float left
+### 02.03.15
+#### Propiedad float left
 - Ayer vimos la capacidad de hacer 
 - Propiedad float : Utiliza solo el contenido que necesitan. 
 - Contenedor + : Contiene etiquetas html.
@@ -20,4 +21,39 @@
 - List style : none: Especificamente para los list-items y su formato, quita las viñetas.
 - Box shadow: Propiedad que añade una sombra a los elementos html.
 
-### 02.04.15 - Posición absoluta y relativa
+#### Posición absoluta y relativa
+- Funcionan como punto de referencia
+- Superposición de los elementos
+- Relativo a su elemento padre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

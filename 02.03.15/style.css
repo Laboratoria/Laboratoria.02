@@ -11,6 +11,7 @@ body {
   /* Definir el width es importante para que el navegador pueda calcular el margen */
   width: 700px; 
   margin: 0 auto;
+  position: relative;
 }
 
 .logo img {
@@ -45,26 +46,9 @@ div.banner img {
 */
 #nuestras-coders {}
 
-ul.grid-coders {
-  list-style: none;
-  padding: 0;
-}
-
-.grid-coders li {
-  float: left;
-  width: 33.33%;
-  padding: 7px;
-}
-
-.grid-coders li img {
-  width: 100%;
-  height: auto;
-}
-
 .imagen-borde-circular li img {
   border-radius: 50%;
 }
-
 
 
 /* 
