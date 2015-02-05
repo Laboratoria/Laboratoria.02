@@ -10,8 +10,16 @@ ul.grid-coders {
 }
 
 .grid-coders li > div {
-  min-height: 219px;
+  min-height: 250px;
   position: relative;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: center center; /* Posiciona las imagenes de fondo */
+  background-size: cover;
+}
+
+.full-background {
+	background-size: cover !important;
 }
 
 .grid-coders li img {
@@ -26,10 +34,13 @@ ul.grid-coders {
 }
 
 .grid-coders li .overlay {
-	min-height: 219px;
 	width: 100%;
 	background-color: rgba(0, 0, 0, 0.3);
 	z-index: 10;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
 }
 
 .grid-coders li img {
