@@ -1,4 +1,4 @@
-### La clave del éxito
+### La clave del éxito depende de la capacidad de hacer las preguntas correctas
 
 - Saber qué quiero hacer / conseguir / lograr
 - En dónde está el problema?
