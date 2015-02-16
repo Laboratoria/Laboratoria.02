@@ -30,6 +30,14 @@
 #### Contenedores, Propiedad float: left y CSS clearfix 
 #### Absolute y relative positioning con overlays sobre imágenes
 
+### 02.16.15
+#### Refuerzo de Relative y Absolute Positioning
+#### Refuerzo de Floats
+
+Ejercicio de cancha de fútbol y obra de arte (espejo) para entender mejor los conceptos de _punto de referencia_ y los objetos que se distribuyen dentro de ese punto de referencia. 
+
+También se cubren aspectos de imágenes de fondo `background-image:` y control de tamaños con porcentaje.
+
 
 
 
