@@ -4,7 +4,7 @@
 
   LaboratoriaBanner = function() {
     this.labBanner = document.getElementById('laboratoria-banner');
-    this.template = '<div class="laboratoria-icon" style="background-image: url(assets/img/laboratoria-icon-black.png)"></div> <div class="laboratoria-label"> <p>Proyecto desarrollado por<br><a href="http://laboratoria.la" target="_blank">laboratoria.la</a></p> </div>';
+    this.template = '<div class="laboratoria-icon" style="background-image: url(https://raw.githubusercontent.com/Laboratoria/Laboratoria.02/master/LaboratoriaBanner/img/laboratoria-icon-black.png)"></div> <div class="laboratoria-label"> <p>Proyecto desarrollado por<br><a href="http://laboratoria.la" target="_blank">laboratoria.la</a></p> </div>';
   };
 
   LaboratoriaBanner.prototype.appendStyles = function() {
@@ -12,7 +12,7 @@
     labStyles = document.createElement('link');
     labStyles.type = 'text/css';
     labStyles.rel = 'stylesheet';
-    labStyles.href = 'https://raw.githubusercontent.com/Laboratoria/Laboratoria.02/master/02.23.15/css/project.css';
+    labStyles.href = 'https://raw.githubusercontent.com/Laboratoria/Laboratoria.02/master/LaboratoriaBanner/css/laboratoria-banner.css';
     document.getElementsByTagName("head")[0].appendChild(labStyles);
   };
 
