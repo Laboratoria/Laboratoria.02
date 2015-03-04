@@ -4,6 +4,13 @@
   padding: 0;
   margin: 0; }
 
+/* CLEARFIX */
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table; }
+.clearfix:after {
+  clear: both; }
+
 /*
   Containers
 */
@@ -81,5 +88,55 @@
   width: 100%; }
 
 /* Estilos del proyecto */
+/*
+	Colores de la marca
+*/
+.bg-primary {
+  background-color: #085A6B !important; }
+
+.bg-success {
+  background-color: #5cb85c !important; }
+
+.bg-info {
+  background-color: #01C6D7 !important; }
+
+.bg-warning {
+  background-color: #f0ad4e !important; }
+
+.bg-danger {
+  background-color: #fb6533 !important; }
+
+/* 
+	Min heights
+*/
+.minh-70 {
+  min-height: 70px; }
+
+.minh-140 {
+  min-height: 140px; }
+
+.minh-210 {
+  min-height: 210px; }
+
+.minh-280 {
+  min-height: 280px; }
+
+.minh-350 {
+  min-height: 350px; }
+
+.minh-420 {
+  min-height: 420px; }
+
+.minh-490 {
+  min-height: 490px; }
+
+.minh-560 {
+  min-height: 560px; }
+
+.minh-630 {
+  min-height: 630px; }
+
+.minh-700 {
+  min-height: 700px; }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,0 +1,8 @@
+/* 
+	Min heights
+*/
+@for $i from 1 through 10 {
+	.minh-#{$i * 70} {
+		min-height: #{$i * 70}px;
+	}
+}
