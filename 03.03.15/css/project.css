@@ -1,0 +1,15 @@
+/* PROYECTO */
+
+header.header {
+	background-color: #E5837A;
+	border-radius: 3px;
+	padding: 21px 0;
+}
+
+nav a {
+	text-decoration: none;
+	color: black;
+	text-transform: uppercase;
+	padding: 0 21px;
+}
+
