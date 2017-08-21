@@ -1,3 +1,12 @@
+-------------------------------------
+Este repostiorio está deprecatado (ya no se usa) pero su contenido aún es valioso por lo que se mantiene activo. 
+
+Si estas buscando consultar nuestra última curricula puedes ver el siguiente repositorio.
+
+(https://github.com/Laboratoria/curricula-js)[https://github.com/Laboratoria/curricula-js]
+
+-------------------------------------
+
 ### La clave del éxito depende de la capacidad de hacer las preguntas correctas
 
 - Saber qué quiero hacer / conseguir / lograr
