@@ -8,4 +8,4 @@ Inserta el siguiente `HTML` en el lugar de tu documento donde quieres presente e
 
 Inserta el siguiente `JS` antes de que termine tu etiqueta `body`. Este script no necesita de jQuery.
 
-	<script type="text/javascript" src="https://cdn.rawgit.com/Laboratoria/Laboratoria.02/master/LaboratoriaBanner/laboratoriaBanner.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Laboratoria/Laboratoria.02@master/LaboratoriaBanner/laboratoriaBanner.js"></script>
